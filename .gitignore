@@ -1,0 +1,28 @@
+# Ignore specific files
+cpp/CMakeCache.txt
+cpp/Makefile
+cpp/CMakeFiles
+cpp/CMakeFiles/Makefile2 
+cpp/CMakeFiles/Makefile.cmake
+cpp/CMakeFiles/CMakeDirectoryInformation.cmake
+cpp/cmake_install.cmake
+cpp/Sp_demo_for_direc
+cpp/Sp_demo
+
+# Use wildcards as well
+*pyc
+*~
+*.o
+*.c
+*.html
+image/result
+image/result/*
+*.npy
+*.mat
+python/result/*
+
+
+*/image/result/*png
+matlab/seg_init.png
+.idea/*
+*/.idea
