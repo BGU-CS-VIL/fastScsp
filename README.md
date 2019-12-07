@@ -23,6 +23,12 @@ the following paper:
 	  booktitle={International Conference on Image Processing},
 	  year={2015},
 	}
+	
+	
+Instructions: 
+-------------------------
+Please see the original repository:
+[https://github.com/freifeld/fastSCSP/](https://github.com/freifeld/fastSCSP/)	
 
 Authors of this software: 
 -------------------------
