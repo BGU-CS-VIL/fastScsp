@@ -9,7 +9,7 @@ The C++ and Matlab wrappers have not been changed.
 This implementation is based on the algorithm from [\[Freifeld, Li and Fisher, ICIP '15\]](http://groups.csail.mit.edu/vision/sli/projects/fastSCSP/FreifeldLiFisher_ICIP15.pdf).
 See also the [project page](http://groups.csail.mit.edu/vision/sli/projects.php?name=fastSCSP).
 
-Note that in ICCV 2019 we released a better better superpixel method, called [Bayesian Adaptive Superpixel Segmentation](https://github.com/BGU-CS-VIL/BASS).
+Note that in ICCV 2019 we released a better superpixel method, called [Bayesian Adaptive Superpixel Segmentation](https://github.com/BGU-CS-VIL/BASS).
 
 This software is released under the MIT License (included with the software).
 Note, however, that if you use this code (and/or the results of running it) 
