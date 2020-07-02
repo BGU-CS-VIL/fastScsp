@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------
 
 This repo is similar to the one in [https://github.com/freifeld/fastSCSP/](https://github.com/freifeld/fastSCSP/),
-except that the old Python 2 wrapper was replaced with a Python 3 wrapper. 
+except that **the old Python 2 wrapper was replaced with a Python 3 wrapper**. 
 The C++ and Matlab wrappers have not been changed. 
 
 This implementation is based on the algorithm from [\[Freifeld, Li and Fisher, ICIP '15\]](http://groups.csail.mit.edu/vision/sli/projects/fastSCSP/FreifeldLiFisher_ICIP15.pdf).
