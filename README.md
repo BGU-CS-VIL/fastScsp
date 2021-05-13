@@ -3,8 +3,8 @@
 ---------------------------------------------------------------------
 
 This repo is similar to the one in [https://github.com/freifeld/fastSCSP/](https://github.com/freifeld/fastSCSP/),
-except that **the old Python 2 wrapper was replaced with a Python 3 wrapper**. 
-The C++ and Matlab wrappers have not been changed. 
+except that **the old Python 2 wrapper was replaced with a Python 3 wrapper** (the C++ and Matlab wrappers have not been changed) and that **a slighly faster parallelization scheme is used in the E step**. 
+
 
 This implementation is based on the algorithm from [\[Freifeld, Li and Fisher, ICIP '15\]](http://groups.csail.mit.edu/vision/sli/projects/fastSCSP/FreifeldLiFisher_ICIP15.pdf).
 See also the [project page](http://groups.csail.mit.edu/vision/sli/projects.php?name=fastSCSP).
